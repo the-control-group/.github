@@ -1,4 +1,4 @@
-Reporting Security Issues
+# Reporting Security Issues
 
 PeopleConnect takes security very seriously. If you have a vulnerability to report, please reach out to us at security@peopleconnect.us. 
 
