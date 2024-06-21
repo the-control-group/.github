@@ -15,3 +15,5 @@ jobs:
         uses: actions/dependency-review-action@0c155c5e8556a497adf53f2c18edabf945ed8e70 # v4.3.2
         with:
           comment-summary-in-pr: always
+          fail-on-scopes: runtime, development, unknown
+          allow_licenses: MIT, Apache 2.0, ISC, BSD 3 Clause, BSD 2 Clause
